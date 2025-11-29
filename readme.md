@@ -4,6 +4,14 @@ Proyecto desarrollado en Python con arquitectura orientada a objetos.
 Permite calcular la nota final de un estudiante considerando evaluaciones, asistencia mínima y puntos extra asignados por docentes.  
 Incluye pruebas unitarias y soporte para análisis estático con SonarQube.
 
+
+## Resultados de calidad y análisis SonarQube
+
+### Calidad requerida
+![Calidad requerida](quality.png)
+
+### Resultado del alumno en SonarQube
+![Resultado SonarQube](sonnar.png)
 ---
 
 ## 📘 Características Principales
