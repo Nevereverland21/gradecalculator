@@ -5,14 +5,14 @@ Permite calcular la nota final de un estudiante considerando evaluaciones, asist
 Incluye pruebas unitarias y soporte para análisis estático con SonarQube.
 
 
+
 ## Resultados de calidad y análisis SonarQube
 
-### Calidad requerida
-![Calidad requerida](quality.png)
+### Rquerido
+![Calidad requerida](sonnar.png)
 
 ### Resultado del alumno en SonarQube
-![Resultado SonarQube](sonnar.png)
----
+![Resultado SonarQube](quality.png)
 
 ## 📘 Características Principales
 
